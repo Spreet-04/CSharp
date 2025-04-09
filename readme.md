@@ -11,3 +11,5 @@ App
   |     |
   |     |--> /Debug
   |-->App.csproj
+  |
+  |-->Program.cs (Main File, where c sharp will be written)
