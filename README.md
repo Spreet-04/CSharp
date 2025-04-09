@@ -20,7 +20,51 @@ flexibility to tackle a wide range of projects.
 
 4. Plus, its beginner-friendly syntax makes it accessible to new programmers.
 
-2. Setting up your environment (Visual Studio/VS Code)
+## Setting up your environment (Visual Studio/VS Code)
+You have two popular options for writing and running C# code: Visual Studio and Visual Studio Code (VS Code). Here's how to set them up:
+
+## Using Visual Studio (Full-Fledged IDE):
+Visual Studio is a comprehensive Integrated Development Environment (IDE) from Microsoft, ideal for professional C# development.
+
+Step 1: Download and Install Visual Studio.
+
+Go to [Visual Studio's Official website](https://visualstudio.microsoft.com/)
+
+Download the Community Edition (free for individual developers).
+
+Step 2: Install Required Workloads.
+
+During installation, select the .NET Desktop Development workload for basic C# projects.
+
+Optionally, add workloads like ASP.NET and Web Development or Game Development with Unity if needed.
+
+Step 3: Start a New Project.
+
+Open Visual Studio, select Create a New Project, and choose a Console App (.NET Core) or any other template based on your project type.
+
+## Using Visual Studio Code (Lightweight Text Editor):
+VS Code is a lightweight, customizable editor that's great for working on smaller C# projects.
+
+Step 1: Download and Install VS Code.
+
+Go to [VS Code's official website](https://visualstudio.microsoft.com/)
+
+Step 2: Install the C# Extension.
+
+Open VS Code and go to the Extensions Marketplace.
+
+Search for and install the C# Extension (by Microsoft).
+
+Step 3: Install .NET SDK.
+
+Download and install the .NET SDK Software Development Kit from the [official .NET website](https://dotnet.microsoft.com/en-us/download) to compile and run C# code.
+
+Step 4: Create and Run Your First Project.
+
+Open a terminal in VS Code, "dotnet new console -o MyFirstApp" run  to create a new project.
+
+Navigate to the project folder and run "dotnet run"  to execute your code.
+
 
 ## Basic Syntax:
 1. Variables, data types, and constants.
