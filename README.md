@@ -1,44 +1,28 @@
 # CSharp
-A Code Repository for C# language from scratch to advanced.
+A Code Repository for C# language.
 
-## Topics Included (Scratch To Advanced)
-## Beginner Topics
-#### Introduction:
+# Topics Included
+## Introduction:
 1. What is C# and why C#
 
 2. Setting up your environment (Visual Studio/VS Code)
 
-#### Basic Syntax:
+## Basic Syntax:
 1. Variables, data types, and constants.
 
 2. Input/output operations.
 
-#### Control Flow:
+## Control Flow:
 1. If/else statements.
 
 2. Loops (for, while, do-while, foreach).
 
-#### Functions / Methods:
+## Functions / Methods:
 1. Creating and using methods.
 
 2. Parameters and return values.
 
 3. Scope and local/global variables.
-
-## Intermediate Topics
-#### Object-Oriented Programming (OOP):
-
-
-#### Collections:
-
-
-#### Exception Handling:
-
-
-#### Delegates and Events:
-
-
-#### LINQ (Language Integrated Query):
 
 # Introduction of C#:
 C# (pronounced "C-sharp") is a modern, versatile, object-oriented programming language developed by Microsoft in 2000 as part of 
