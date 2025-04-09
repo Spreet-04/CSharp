@@ -1,5 +1,34 @@
 # CSharp
-A Code Repositroy for C# language from scratch to advanced.
+A Code Repository for C# language from scratch to advanced.
+
+## Topics Included (Scratch To Advanced)
+### Beginner Topics
+#### What is C# and why C#:
+
+
+#### Basic Syntax:
+
+
+#### Control Flow:
+
+
+#### Functions / Methods:
+
+
+### Intermediate Topics
+#### Object-Oriented Programming (OOP):
+
+
+#### Collections:
+
+
+#### Exception Handling:
+
+
+#### Delegates and Events:
+
+
+#### LINQ (Language Integrated Query):
 
 # Introduction of C#:
 C# (pronounced "C-sharp") is a modern, versatile, object-oriented programming language developed by Microsoft in 2000 as part of 
