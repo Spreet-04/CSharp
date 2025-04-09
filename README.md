@@ -2,20 +2,30 @@
 A Code Repository for C# language from scratch to advanced.
 
 ## Topics Included (Scratch To Advanced)
-### Beginner Topics
-#### What is C# and why C#:
+## Beginner Topics
+#### Introduction:
+1. What is C# and why C#
 
+2. Setting up your environment (Visual Studio/VS Code)
 
 #### Basic Syntax:
+1. Variables, data types, and constants.
 
+2. Input/output operations.
 
 #### Control Flow:
+1. If/else statements.
 
+2. Loops (for, while, do-while, foreach).
 
 #### Functions / Methods:
+1. Creating and using methods.
 
+2. Parameters and return values.
 
-### Intermediate Topics
+3. Scope and local/global variables.
+
+## Intermediate Topics
 #### Object-Oriented Programming (OOP):
 
 
